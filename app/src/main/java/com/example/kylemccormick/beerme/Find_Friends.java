@@ -44,7 +44,7 @@ public class Find_Friends extends AppCompatActivity {
          */
 
 
-        friends.add("Joe Schmo");
+        //friends.add("Joe Schmo");
         friends.add("Bob Bobyyy");
         friends.add("Sue Susann");
         friends.add("Sam Sammyb");
