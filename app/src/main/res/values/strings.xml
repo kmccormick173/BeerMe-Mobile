@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BeerMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_send__beer">Send_Beer</string>
+    <string name="title_activity_find__friends">Find_Friends</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_photo_viewer">PhotoViewerActivity</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_login">Login</string>
+</resources>
